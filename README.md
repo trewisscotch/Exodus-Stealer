@@ -4,7 +4,8 @@ Login Verification Bypass Exploit C++,C,C#
 Exodus Stealer Login Verification Bypass Exploit Injector
 
 ## Information
-**Exodus Stealer Reborn Is A Advanced Malware The Silently Steals All Information From A Victims Computer
+Exodus Stealer Reborn Is A Advanced Malware The Silently Steals All Information From A Victims Computer
+
 ![image](https://user-images.githubusercontent.com/106811566/171842418-f71284aa-61e0-4dbf-9e6d-e28166e702b9.png)
 
 ### After the Virus is ran it hides itself in the victims computer and deletes the server so they cant find the file. Exodus Stealer Has A Microsoft Excel Exploit Built in along with a File pumper which boosts the file size to any specific size such as kb mb gb. Along with Exodus Stealer Reborn you will get Exodus Crypter And File Spoofer The File Spoofer will spoof the extention to also help trick the victim into opening the file. For Example you can spoof the file into a pdf or jpeg easily by typing this into the spoofer. filenameexe.jpg or filenameexe.pdf. Also Available Upon Request Is Built In Crypto Malware so anytime they send or recive Crypto the funds will come to you instead of intended person.###
